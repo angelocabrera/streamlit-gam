@@ -8,7 +8,7 @@ import json
 GAM_PATH = "/home/angelocabrera/bin/gamadv-xtd3/"
 
 st.set_page_config(
-    page_title="Info Usuarios"
+    page_title="GAMlit - Info Usuarios"
 )
 
 st.title('GAM-Web')

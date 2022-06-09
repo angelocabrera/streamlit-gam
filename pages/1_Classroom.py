@@ -7,7 +7,7 @@ import subprocess
 GAM_PATH = "/home/angelocabrera/bin/gamadv-xtd3/"
 
 st.set_page_config(
-    page_title="Info Classroom"
+    page_title="GAMlit - Info Classroom"
 )
 
 st.title('GAM-Web')
