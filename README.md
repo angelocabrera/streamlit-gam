@@ -1,4 +1,4 @@
-# streamlit-gam
+# GAMlit
 Using Streamlit and GAM to operate with Google Workspace
 
 ## Description
